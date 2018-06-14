@@ -1,3 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
+<addon id="repository.Twunts" name="Twunts" version="0.0.1" provider-name="Twunts">
+	<extension point="xbmc.addon.repository" name="Twunts Repository">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+		</dir>
+		<info compressed="false">https://raw.githubusercontent.com/Abstract2803 /repository.Twunts/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/Abstract2803 /repository.Twunts/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/Abstract2803 /repository.Twunts/master/zips/</datadir>
+		    <dir>
+            <info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/jsergio123/zips/master/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/jsergio123/zips/master/</datadir>
+        </dir>
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/</datadir>
+        </dir>
+        </extension>
+	<extension point="xbmc.addon.metadata">
+		    <summary>Horizon repo</summary>
+            <description>Horizon bringing you Builds and Addons.</description>
+            <platform>all</platform>
+            <genre>movies,usa</genre>
+
+	</extension>
+</addon>
 </addons>
